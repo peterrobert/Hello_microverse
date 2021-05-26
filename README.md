@@ -15,7 +15,7 @@ Additional description about the project and its features.
 
 ## Live Demo
 
-[Live Demo Link](https://test.com)
+[Live Demo Link](https://rawcdn.githack.com/peterrobert/Hello_microverse/c0c53e89e9eecdd185cf2e711e46b214f2a21ce4/Index.html)
 
 
 
@@ -28,7 +28,6 @@ To get a local copy up and running follow these simple example steps.
 👤 **Peter Robert**
 
 - Github: [@peterrobert](https://github.com/peterrobert)
-- Twitter: [@ptahwambui93](https://twitter.com/Ptahwambui93)
 - Linkedin: [Peter Robert Ndungu](https://www.linkedin.com/in/peter-rob-ndungu/)
 
 
